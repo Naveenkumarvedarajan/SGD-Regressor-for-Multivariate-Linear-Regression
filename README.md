@@ -27,7 +27,7 @@ STEP 6. End
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 
 */
-
+```
 
 import numpy as np
 import pandas as pd
@@ -60,7 +60,7 @@ mse=mean_squared_error(y_test,y_pred)
 print("Mean Squared Error:",mse)
 print("\nPredictions:\n",y_pred[:5])
 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/28a0d3fe-0639-4d69-af97-48effa671a0e)
